@@ -13,9 +13,9 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.App-header,video {
+  border: 1px solid #F2F;
+  background-color: #282c34; 
   display: flex;
   flex-direction: column;
   align-items: center;
