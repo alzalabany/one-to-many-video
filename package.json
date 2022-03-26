@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "kurento-client": "git+https://github.com/Kurento/kurento-client-js.git",
     "kurento-utils": "^6.13.1",
-    "minimist": "^1.1.1",
+    "minimist": "^1.2.6",
     "nodemon": "^2.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
